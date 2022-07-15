@@ -1,0 +1,15 @@
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\bin\Debug\net5.0\Event.deps.json
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\bin\Debug\net5.0\Event.dll
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\bin\Debug\net5.0\ref\Event.dll
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\bin\Debug\net5.0\Event.pdb
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\bin\Debug\net5.0\Domain.dll
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\bin\Debug\net5.0\Domain.pdb
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\obj\Debug\net5.0\Event.csproj.AssemblyReference.cache
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\obj\Debug\net5.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\obj\Debug\net5.0\Event.AssemblyInfoInputs.cache
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\obj\Debug\net5.0\Event.AssemblyInfo.cs
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\obj\Debug\net5.0\Event.csproj.CoreCompileInputs.cache
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\obj\Debug\net5.0\Event.csproj.CopyComplete
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\obj\Debug\net5.0\Event.dll
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\obj\Debug\net5.0\ref\Event.dll
+C:\Users\m.madhani\source\repos\Test.Host.GraphQl\Event\obj\Debug\net5.0\Event.pdb
