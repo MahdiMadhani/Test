@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Remove="ReadOnly\ProductClassifications\Commands\**" />
+		<EmbeddedResource Remove="ReadOnly\ProductClassifications\Commands\**" />
+		<None Remove="ReadOnly\ProductClassifications\Commands\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="DayanaCore.Infrastructure.Application" Version="1.0.6" />
+		<PackageReference Include="DayanaCore.Infrastructure.Messaging" Version="1.0.3" />
+		<PackageReference Include="GraphQL.Server.Authorization.AspNetCore" Version="5.2.0" />
+		<PackageReference Include="IdentityServer4" Version="4.1.2" />
+		<PackageReference Include="Microsoft.TestPlatform.TestHost" Version="16.9.4" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Domain\Domain.csproj" />
+		<ProjectReference Include="..\Event\Event.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="ReadOnly\Contacts\Commands\" />
+		<Folder Include="ReadOnly\UnitOfMeasures\Commands\" />
+		<Folder Include="ReadOnly\Sttaws\Queries\" />
+	</ItemGroup>
+
+</Project>
